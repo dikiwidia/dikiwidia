@@ -12,7 +12,7 @@ I'm an introvert fullstack developer from Indonesia 🇮🇩.
 
 <br />
 
-| <a href="https://github.com/dikiwidia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dikiwidia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Moch's github stats" /></a> | <a href="https://github.com/dikiwidia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikiwidia&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/dikiwidia"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dikiwidia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Moch's github stats" /></a> | <a href="https://github.com/dikiwidia"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikiwidia&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
